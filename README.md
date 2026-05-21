@@ -66,8 +66,9 @@
 
 ## 🎓 Educación y certificaciones
 
--🎓 **Tecnóloga en Desarrollo de Software** — SENA Regional Caldas *(2021 - 2023)*
--🎓 **Ingeniera de software** — Politécnico Grancolombiano *(Actualmente  Cursando - 2026)*
+🎓 **Tecnóloga en Desarrollo de Software** — SENA Regional Caldas *(2021 - 2023)*
+
+🎓 **Ingeniera de software** — Politécnico Grancolombiano *(Actualmente  Cursando - 2026)*
 
 📜 **Certificaciones Platzi:**
 - IA para Datos y Machine Learning
