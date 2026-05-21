@@ -47,6 +47,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -57,6 +59,8 @@
 - Implementación de soluciones eCommerce con WordPress y PrestaShop
 - Administración de servidores y dominios
 - Análisis de datos en diferentes etapas del desarrollo
+- Despliegue de proyectos en servidor Linux con Nginx
+- Contenerización de aplicaciones con Docker
 
 **Practicante en Tecnología** — Cooperativa de Caficultores de Manizales *(2022 - 2023)*
 - Desarrollo y lanzamiento de eCommerce (Café La Loma)
@@ -68,7 +72,7 @@
 
 🎓 **Tecnóloga en Desarrollo de Software** — SENA Regional Caldas *(2021 - 2023)*
 
-🎓 **Ingeniera de software** — Politécnico Grancolombiano *(Actualmente  Cursando - 2026)*
+🎓 **Ingeniera de software** — Politécnico Grancolombiano *(Cursando Actualmente - 2026)*
 
 📜 **Certificaciones Platzi:**
 - IA para Datos y Machine Learning
