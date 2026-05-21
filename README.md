@@ -67,6 +67,7 @@
 ## 🎓 Educación y certificaciones
 
 🎓 **Tecnóloga en Desarrollo de Software** — SENA Regional Caldas *(2021 - 2023)*
+🎓 **Ingeniera de software** — Politécnico Grancolombiano *(Actualmente  Cursando - 2026)*
 
 📜 **Certificaciones Platzi:**
 - IA para Datos y Machine Learning
@@ -74,6 +75,12 @@
 - Git y GitHub
 - Inteligencia Artificial
 - Pensamiento Lógico y Estructuras de Datos
+
+---
+
+## 🌐 Proyectos en vivo
+
+- 🛒 [Tenis y Valores](https://tenisyvalores.com/) — Desarrollado en WordPress
 
 ---
 
