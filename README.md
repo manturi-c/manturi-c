@@ -49,6 +49,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white)
 
 ---
 
@@ -61,6 +62,7 @@
 - Análisis de datos en diferentes etapas del desarrollo
 - Despliegue de proyectos en servidor Linux con Nginx
 - Contenerización de aplicaciones con Docker
+- Administración de servidores vía SSH
 
 **Practicante en Tecnología** — Cooperativa de Caficultores de Manizales *(2022 - 2023)*
 - Desarrollo y lanzamiento de eCommerce (Café La Loma)
